@@ -1,4 +1,4 @@
-# laserwave-iterm2
+# LaserWave for iTerm2
 A port of [LaserWave VSCode theme](https://marketplace.visualstudio.com/items?itemName=jaredkent.laserwave) for iTerm2.
 
 ## Preview
